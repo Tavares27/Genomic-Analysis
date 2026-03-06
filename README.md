@@ -75,6 +75,32 @@ plt.show()
 ```
 
 ---
+## 🧪 How to Run the Code
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Tavares27/genetic-data-analysis.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd genetic-data-analysis
+```
+
+3. Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the Jupyter notebook:
+
+```bash
+streamlit run Analysis/Notebooks/Dashboard.py
+```
+---
 
 ## 📊 Results and Insights
 
