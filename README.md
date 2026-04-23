@@ -32,7 +32,7 @@ This project was developed as part of my academic and research experience in com
 ## 📂 Project Structure
 
 ```bash
-genetic-data-analysis/
+Genomic-Analysis/
 │
 ├── data/                 # Dataset files
 ├── notebooks/            # Jupyter notebooks used for analysis
@@ -86,7 +86,7 @@ git clone https://github.com/Tavares27/genetic-data-analysis.git
 2. Navigate to the project directory:
 
 ```bash
-cd genetic-data-analysis
+cd Genomic-Analysis
 ```
 
 3. Install the required packages:
